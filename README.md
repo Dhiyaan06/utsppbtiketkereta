@@ -14,8 +14,8 @@ Grand Kencana Rail adalah aplikasi mobile berbasis Flutter untuk pemesanan tiket
 
 | Teknologi | Versi | Kegunaan |
 | :--- | :--- | :--- |
-| **Flutter SDK** | Stable | Framework utama pengembangan aplikasi |
-| **Dart** | Latest | Bahasa pemrograman logika aplikasi |
+| **Flutter SDK** | 3.35.6 | Framework utama pengembangan aplikasi |
+| **Dart** | 3.9.2 | Bahasa pemrograman logika aplikasi |
 | **Material Design** | 3.0 | Sistem desain antarmuka (UI/UX) |
 | **Google Fonts** | - | Menggunakan font Georgia (tema klasik) |
 | **MVC Pattern** | - | Arsitektur kode (Model-View-Controller) |
